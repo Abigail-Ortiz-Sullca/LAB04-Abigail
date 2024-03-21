@@ -1,0 +1,5 @@
+--¿Para qué sirve el comando git init?
+
+El comando git init se utiliza para inicializar un nuevo repositorio Git. 
+Cuando ejecutas este comando, Git crea un nuevo subdirectorio llamado .git que contiene todos los archivos 
+necesarios para el repositorio. Esencialmente, git init marca el comienzo de un proyecto que será rastreado por Git.
