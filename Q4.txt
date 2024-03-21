@@ -1,8 +1,8 @@
 Para eliminar una rama en Git, primero debes crearla y luego puedes eliminarla. Aquí te dejo los comandos:
-# Crear la rama
+**Crear la rama
 git branch feature/QA
 
-# Eliminar la rama
+**Eliminar la rama 
 git branch -d feature/QA
 
 El comando -d (delete) eliminará la rama si ya ha sido fusionada con su rama ascendente. Si quieres eliminar la rama independientemente de su estado de fusión, puedes usar -D (mayúscula).
